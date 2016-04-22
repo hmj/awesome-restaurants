@@ -1,6 +1,6 @@
 # awesome-restaurants
 
-A curated list of awesome restaurants. Inspired by [beatinaniwa](https://github.com/beatinaniwa).
+A curated list of awesome restaurants. Inspired by [beatinaniwa](https://github.com/beatinaniwa/awesome-restaurants).
 
 If you want to contribute to this list (please do), send me a pull request to RECOMMEND.md or contact me [@hmj](https://twitter.com/hmj_kd)
 
